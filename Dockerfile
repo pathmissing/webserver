@@ -3,7 +3,7 @@
 ################################################################################
 
 # base image
-FROM debian:jessie
+FROM debian:10
 
 # author
 MAINTAINER Tim Wagner <tw@appserver.io>
